@@ -1,0 +1,32 @@
+{
+  "name": "jkutils",
+  "version": "0.1.0",
+  "description": "Utilities and helpers for communication with Jedi Academy and Jedi Outcast servers/clients",
+  "main": "jkutils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node jkutils.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Razish/node-jkutils.git"
+  },
+  "keywords": [
+    "jedi",
+    "knight",
+    "academy",
+    "outcast",
+    "server",
+    "client",
+    "quake",
+    "id",
+    "tech",
+    "software"
+  ],
+  "author": "Raz0r",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Razish/node-jkutils/issues"
+  },
+  "homepage": "https://github.com/Razish/node-jkutils#readme"
+}
