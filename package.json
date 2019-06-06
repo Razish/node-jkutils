@@ -1,6 +1,6 @@
 {
   "name": "@razish/jkutils",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Utilities and helpers for communication with Jedi Academy and Jedi Outcast servers/clients",
   "main": "index.js",
   "scripts": {
@@ -35,6 +35,7 @@
   "dependencies": {
     "buffer-hexdump": "^1.0.0",
     "buffer-split": "^1.0.0",
-    "debug": "^4.1.1"
+    "debug": "^4.1.1",
+    "dns-sync": "^0.1.3"
   }
 }
